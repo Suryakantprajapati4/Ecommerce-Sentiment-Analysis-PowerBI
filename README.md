@@ -21,7 +21,9 @@ This project analyzes customer feedback for a Women's Clothing E-commerce platfo
 * `ecommerce_project.pbix`: The final Power BI dashboard file.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Link_to_your_dashboard_screenshot_image_here)
+<img width="1892" height="1055" alt="dashboard_Positive png" src="https://github.com/user-attachments/assets/4cde41dd-ab40-4535-90d3-f6bf4f522dd7" />
+<img width="1910" height="1052" alt="dashboard_Negative png" src="https://github.com/user-attachments/assets/f0ee5b59-8101-4ca0-9e35-05cc60774f49" />
+
 
 ## 💡 How to Use
 1. Download the `ecommerce_project.pbix` file.
